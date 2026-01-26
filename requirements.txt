@@ -1,3 +1,4 @@
-pandas
+pandas<3
 streamlit
 openpyxl
+altair<5
